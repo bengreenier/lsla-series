@@ -1,4 +1,4 @@
-# Episode 1 Recap
+# Episode 2 Recap
 
 + Introduction to UI
 + KenneyNL free assets
